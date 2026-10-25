@@ -1,0 +1,636 @@
+word,category,difficulty
+Going camping,phrase,medium
+Juggling,single word,medium
+Hula-hooping,single word,easy
+Sleeping,single word,easy
+Waking up,phrase,easy
+Cooking,single word,easy
+Brushing teeth,phrase,easy
+Brushing hair,phrase,easy
+Walking a dog,phrase,easy
+Talking on the phone,phrase,easy
+Playing video games,phrase,easy
+Putting together a puzzle,phrase,medium
+Eating,single word,easy
+Drinking,single word,easy
+Getting dressed,phrase,medium
+Getting undressed,phrase,medium
+Applying lotion,phrase,medium
+Washing hair,phrase,easy
+Buckling a belt,phrase,medium
+Buttoning a shirt,phrase,easy
+Feeding a baby food,phrase,easy
+Pushing a baby in a stroller,phrase,easy
+Changing a diaper,phrase,easy
+Cutting food with a knife,phrase,easy
+Opening a can,phrase,medium
+Putting dishes in the dishwasher,phrase,medium
+Washing dishes in the sink,phrase,easy
+Doing laundry,phrase,easy
+Mopping floors,phrase,easy
+Dusting furniture,phrase,medium
+Fluffing pillows,phrase,medium
+Icing a cake,phrase,medium
+Driving a car,phrase,easy
+Listening to music,phrase,easy
+Singing,single word,easy
+Typing,single word,easy
+Writing,single word,easy
+Checking the mail,phrase,medium
+Opening a letter,phrase,easy
+Coughing,single word,easy
+Sneezing,single word,easy
+Scratching,single word,easy
+Yawning,single word,easy
+Raking leaves,phrase,easy
+Picking flowers,phrase,easy
+Shoveling snow,phrase,easy
+Watering plants,phrase,easy
+Smoking a cigarette,phrase,easy
+Lighting candles,phrase,medium
+Sharpening a pencil,phrase,medium
+Going to the movies,phrase,easy
+Going on a picnic,phrase,medium
+Going to church,phrase,medium
+Praying,single word,easy
+Going to the gym,phrase,easy
+Going to school,phrase,easy
+Going to the hospital,phrase,medium
+Meditating,single word,medium
+Smelling a flower,phrase,easy
+Flying a kite,phrase,easy
+Catching butterflies,phrase,medium
+Whisking eggs,phrase,medium
+Chopping wood,phrase,easy
+Climbing a tree,phrase,easy
+Sunbathing,single word,easy
+Sending a text,phrase,easy
+Building a sand castle,phrase,easy
+Blow-drying your hair,phrase,easy
+Parallel parking,phrase,medium
+Hailing a taxi,phrase,medium
+Writing a check,phrase,medium
+Running on a treadmill,phrase,medium
+Winning an award,phrase,medium
+Sleeping in a hammock,phrase,medium
+Hop on a Zoom call,phrase,medium
+Going to a museum,phrase,medium
+Losing your glasses,phrase,medium
+Putting on a wig,phrase,medium
+Having hiccups,phrase,easy
+Bad odour,phrase,medium
+Watching a football game,phrase,medium
+Giving a haircut,phrase,medium
+Gardening,single word,medium
+Learning,single word,hard
+Teaching a language,phrase,hard
+Watching YouTube,phrase,medium
+Watching a Romantic Comedy,phrase,hard
+Listening to classical music,phrase,hard
+Cooking meat,phrase,medium
+Acting on stage,phrase,medium
+Ice skating,phrase,easy
+Calling a time out,phrase,medium
+Sliding into home base,phrase,medium
+Diving off diving board,phrase,medium
+Cheerleading,single word,medium
+Pogo stick,phrase,medium
+Playing pickleball,phrase,medium
+Throwing a football,phrase,easy
+Throwing a frisbee,phrase,easy
+Jumping rope,phrase,easy
+Having a snowball fight,phrase,easy
+Doing the macarena,phrase,medium
+Tap dancing,phrase,medium
+Salsa dancing,phrase,medium
+Playing croquet,phrase,medium
+Playing horseshoes,phrase,medium
+Playing corn hole,phrase,medium
+Playing hacky sack,phrase,medium
+Playing pool,phrase,easy
+Bowling,single word,easy
+Fishing,single word,easy
+Shooting a bow and arrow,phrase,easy
+Surfing,single word,easy
+Water skiing,phrase,medium
+Riding a motorcycle,phrase,easy
+Riding a scooter,phrase,easy
+Ice hockey,phrase,medium
+Football,single word,easy
+Volleyball,single word,easy
+Rock climbing,phrase,medium
+Wrestling,single word,easy
+Paddle boarding,phrase,medium
+Driving a go kart,phrase,medium
+Flying a drone,phrase,medium
+Playing charades,phrase,hard
+Jumping on a trampoline,phrase,easy
+Visiting the zoo,phrase,easy
+Going to the beach,phrase,easy
+Going on a hike,phrase,easy
+Scuba diving,phrase,medium
+Circus,single word,medium
+Turkey,single word,easy
+Parrot,single word,easy
+Bull,single word,easy
+Alligator,single word,easy
+Bee,single word,easy
+Cow,single word,easy
+Horse,single word,easy
+Rabbit,single word,easy
+Spider,single word,easy
+Owl,single word,easy
+Penguin,single word,easy
+Giraffe,single word,easy
+Tiger,single word,easy
+Squirrel,single word,easy
+Pig,single word,easy
+Chicken,single word,easy
+Kangaroo,single word,easy
+Frog,single word,easy
+Sloth,single word,medium
+Flamingo,single word,medium
+Peacock,single word,medium
+Octopus,single word,medium
+A bear growling,phrase,easy
+Bigfoot,single word,medium
+Dragon,single word,medium
+Mac-and-cheese,phrase,medium
+Banana,single word,easy
+Orange,single word,easy
+Apple,single word,easy
+Lollipop,single word,easy
+Sandwich,single word,easy
+French fries,phrase,easy
+Cotton candy,phrase,medium
+Corn on the cob,phrase,medium
+Hot dog,phrase,easy
+Taco,single word,easy
+Gummy bears,phrase,medium
+Chicken and chips,phrase,medium
+Cake/pie,phrase,medium
+Grapes,single word,easy
+Crab legs,phrase,medium
+Burrito,single word,medium
+Cabbage,single word,medium
+Eating a burger,phrase,easy
+Drinking a milkshake,phrase,easy
+Biting into an apple,phrase,easy
+Drinking a cup of coffee,phrase,easy
+Drinking hot cocoa,phrase,easy
+Harmonica,single word,medium
+Cymbals,single word,medium
+Violin,single word,easy
+Trombone,single word,medium
+Recorder,phrase,medium
+Saxophone,single word,medium
+Stand-up bass,phrase,hard
+Tuba,single word,medium
+Piano,single word,easy
+Toothbrush,single word,easy
+A pair of scissors,phrase,easy
+A telephone ringing,phrase,easy
+Opening a door,phrase,easy
+Lightbulb,single word,medium
+Google,single word,hard
+The Eiffel Tower,phrase,medium
+An erupting volcano,phrase,medium
+The sun,phrase,easy
+The Statue of Liberty,phrase,medium
+Disney World,phrase,medium
+Orchestra,single word,medium
+A doctor,phrase,easy
+A firefighter,phrase,easy
+A waitress,phrase,easy
+A musician,phrase,easy
+Teacher,single word,easy
+Babysitter,single word,medium
+Bartender,single word,medium
+Barista,single word,medium
+Lifeguard,single word,medium
+Car mechanic,phrase,medium
+Pickpocket,single word,medium
+Afraid,single word,easy
+Happy,single word,easy
+Sad,single word,easy
+Angry,single word,easy
+Being embarrassed,phrase,medium
+Being in love,phrase,medium
+Having a cold,phrase,easy
+Jet lag,phrase,hard
+Stage fright,phrase,medium
+Nightmare,single word,medium
+Brain freeze,phrase,medium
+Singing Christmas carols,phrase,medium
+Making a gingerbread house,phrase,hard
+Decorating a Christmas tree,phrase,easy
+Making a snowman,phrase,easy
+Donald Duck,phrase,medium
+Goofy,single word,medium
+Pluto,single word,medium
+Pinocchio,single word,medium
+Up,single word,medium
+Fight Club,phrase,hard
+Jaws,single word,medium
+Ran,single word,hard
+Roasted corn,phrase,medium
+Home,single word,medium
+Firstborn daughter,phrase,hard
+The Lord of the Rings,phrase,medium
+Jurassic Park,phrase,medium
+Man of Steel,phrase,medium
+The Hunchback of Notre Dame,phrase,hard
+Star Wars,phrase,medium
+Cars,single word,medium
+The Jungle Book,phrase,medium
+Venza,single word,hard
+First Man,phrase,hard
+The Godfather,phrase,medium
+Good Boys,phrase,hard
+Spider-Man,single word,easy
+Tenet,single word,hard
+Wedding day,phrase,hard
+Airplane,single word,hard
+Monsters Inc.,phrase,medium
+It,single word,hard
+Taxi Driver,phrase,hard
+Inception,single word,hard
+Blow bubbles and fight crime,phrase,hard
+The Terminator,phrase,medium
+Uncompleted building,phrase,hard
+Once Upon a Time,phrase,hard
+Vertigo,single word,hard
+Alice in Wonderland,phrase,medium
+Surprise party,phrase,medium
+Ratatouille,single word,medium
+Trying to kill a mosquito,phrase,hard
+Sneaking food into the cinema,phrase,hard
+Brave,single word,medium
+Eating hot food,phrase,hard
+Midlife crisis,phrase,medium
+Praying for breakthrough,phrase,hard
+Unrequited love,phrase,hard
+Oblivion,single word,hard
+Hereditary,single word,hard
+Walking barefeet,phrase,hard
+Bartender,phrase,hard
+Shazam,single word,medium
+Grand Theft Auto,phrase,hard
+FIFA,phrase,hard
+Black Widow,phrase,medium
+Stockholm syndrome,phrase,hard
+Finding Nemo,phrase,easy
+Frozen,single word,easy
+Elf,single word,easy
+Pirates of the Caribbean,phrase,medium
+The Lion King,phrase,easy
+The Little Mermaid,phrase,medium
+Harry Potter,phrase,easy
+The Hunger Games,phrase,medium
+Fight like cat and rat,single word,hard
+Black and yellow,phrase,hard
+Greatest gbogbo,phrase,hard
+Frankenstein,single word,easy
+Little Women,phrase,medium
+Bad network,phrase,hard
+Sunshine and Rainbows,phrase,medium
+Dracula,single word,easy
+Getting a Hiccup,phrase,hard
+Money,single word,medium
+Paw Patrol,phrase,medium
+Spongebob Squarepants,phrase,medium
+Nigerian Idol,phrase,medium
+Dora the Explorer,phrase,medium
+Peppa Pig,phrase,easy
+Modern Family,phrase,hard
+The Simpsons,phrase,medium
+Game of Thrones,phrase,medium
+The Walking Dead,phrase,medium
+Dancing with the Stars,phrase,hard
+The Office,phrase,hard
+Friends,single word,medium
+Reality TV,phrase,medium
+Heaven,single word,easy
+Outside,single word,easy
+Sorry,single word,easy
+Justin Bieber,phrase,easy
+Side to Side,phrase,easy
+Dancing Queen,phrase,easy
+My Hero,phrase,easy
+Umbrella,single word,easy
+Eye of the Tiger,phrase,medium
+Hello,single word,easy
+Roses,single word,easy
+7 Rings,phrase,easy
+I'm the One,phrase,medium
+Shape of You,phrase,medium
+Bad,single word,easy
+Michael Jackson,phrase,easy
+Bad Guy,phrase,easy
+Someone You Loved,phrase,medium
+Dance Monkey,phrase,easy
+Perfect,single word,hard
+Stay With Me,phrase,hard
+Orange,single word,hard
+Pineapple,phrase,hard
+Blinding Lights,phrase,hard
+Godzilla,single word,hard
+Fly Me to the Moon,phrase,medium
+Call Me Maybe,phrase,medium
+Let It Go,phrase,medium
+We Don't Talk About Bruno,phrase,medium
+Baby Shark,phrase,easy
+Jingle Bell,phrase,medium
+Love Story,phrase,medium
+Espresso,single word,medium
+Beyoncé,single word,medium
+Serena Williams,phrase,medium
+Taylor Swift,phrase,medium
+Michael B. Jordan,phrase,hard
+Lady Gaga,phrase,medium
+Elvis Presley,phrase,medium
+Ariana Grande,phrase,medium
+Existential Crisis,phrase,hard
+Moral compass,phrase,hard
+Passive Aggression,phrase,hard
+Inner Peace,phrase,hard
+Peer Pressure,phrase,hard
+Cognitive Dissonance,phrase,hard
+Scratch my back and I scratch yours,phrase,hard
+Déjà Vu,phrase,hard
+Imposter Syndrome,phrase,hard
+Split Personality,phrase,hard
+Wearing tight shoes,phrase,hard
+dancing without music,phrase,hard
+Social Anxiety,phrase,hard
+Emotional rollercoaster,phrase,hard
+Reading Between the Lines,phrase,hard
+Walking on Eggshells,phrase,hard
+Throwing Shade,phrase,hard
+Making a Mountain Out of a Molehill,phrase,hard
+Spill the Tea,phrase,hard
+Biting Off More Than You Can Chew,phrase,hard
+Jumping into Conclusions,phrase,hard
+Beating Around the Bush,phrase,hard
+Put yourself in my shoes,phrase,hard
+Turning Over a New Leaf,phrase,hard
+Cancel Culture,phrase,hard
+Doomscrolling,single word,hard
+TikTok Trend,phrase,medium
+Influencer Drama,phrase,medium
+Conspiracy Theorist,phrase,hard
+Midnight quick quick Snack,phrase,medium
+Mansplaining,single word,hard
+Going Viral,phrase,hard
+Food fight,phrase,easy
+Traffic jam,phrase,medium
+Bankruptcy,single word,hard
+Sudoku,single word,medium
+Alien abduction,phrase,medium
+Time travel,phrase,hard
+Black hole,phrase,hard
+Procrastination,single word,hard
+Global warming,phrase,hard
+Identity theft,phrase,hard
+Zobo,single word,medium
+Egusi Soup,phrase,medium
+Kola Nut,phrase,medium
+Agege Bread,phrase,medium
+Ewa Agoyin,phrase,hard
+Suya,single word,easy
+Ofada Rice,phrase,medium
+Garri and Groundnut,phrase,medium
+Jollof Rice,phrase,easy
+Puff Puff,phrase,easy
+Chin Chin,phrase,easy
+Moi-Moi,single word,medium
+Akara,single word,medium
+Kilishi,single word,hard
+Kunu,single word,hard
+Palm Wine,phrase,medium
+Chapman,single word,medium
+Kpekere,single word,hard
+Roasted Corn and Ube,phrase,medium
+Amala and Ewedu,phrase,hard
+Fufu,single word,medium
+Abacha,single word,hard
+Nkwobi,single word,hard
+Isi Ewu,phrase,hard
+Pepper Soup,phrase,medium
+Bole,single word,medium
+Kuli Kuli,phrase,hard
+Gala,single word,medium
+Lacasera,single word,hard
+Titus Sardine,phrase,medium
+Bournvita,single word,medium
+Peak Milk,phrase,medium
+Sugar,single word,easy
+Cabin Biscuit,phrase,medium
+Maltina,single word,hard
+Star,single word,hard
+Bitter Kola,phrase,medium
+Danfo Driver,phrase,medium
+Conductor,single word,medium
+Agbero,single word,hard
+Okada,single word,medium
+Keke Napep,phrase,medium
+BRT Bus,phrase,medium
+Tailor,single word,easy
+Shoemaker,single word,medium
+Night Bus,phrase,medium
+Fuel Scarcity,phrase,hard
+Generator,single word,easy
+I Better Pass My Neighbour,phrase,hard
+NEPA,single word,hard
+Prepaid Meter,phrase,hard
+Pure Water,phrase,medium
+Owanbe,single word,hard
+Aso Ebi,phrase,hard
+Spraying Money,phrase,medium
+Souvenir,single word,medium
+Third Mainland Bridge,phrase,hard
+Computer Village,phrase,hard
+PoS,single word,hard
+Mallam,single word,medium
+Barber Shop,phrase,easy
+Hair Salon,phrase,easy
+Braider,single word,medium
+Dry Cleaner,phrase,medium
+Morning Devotion,phrase,medium
+Turning Semo,phrase,hard
+Washing Bitterleaf,phrase,hard
+Picking Beans,phrase,medium
+Fetching Water,phrase,easy
+Tying Wrapper,phrase,medium
+Tying Gele,phrase,hard
+Agbada,single word,medium
+Isiagu,single word,hard
+Hand Fan,phrase,easy
+Nigerian Mother-in-Law,phrase,medium
+Firstborn,single word,medium
+Last Born,phrase,medium
+Rich Aunty Vibes,phrase,hard
+Kneeling Down,phrase,easy
+Back the Baby,phrase,medium
+Scraping the Bottom of the Pot,phrase,hard
+Wicked Stepmother,phrase,medium
+Odogwo,single word,hard
+Igwe,single word,hard
+Achalugo,single word,hard
+Yahoo Boy,phrase,hard
+Slay Queen,phrase,medium
+Church Deliverance,phrase,hard
+Corper,single word,medium
+Shaking Table,phrase,hard
+Inside Life,phrase,hard
+Cut Soap For Me,phrase,hard
+Na Dem Dey Rush Us,phrase,hard
+God When,phrase,hard
+"If you know, you know",phrase,hard
+Legwork,single word,hard
+Shoki,single word,hard
+Azonto,single word,hard
+Skelewu,single word,hard
+Player,single word,medium
+Hypeman,single word,hard
+Backup Singer,phrase,medium
+Superman,single word,easy
+Making Jokes,phrase,medium
+Vibe Killer,phrase,hard
+Lip Syncing,phrase,medium
+Money na water,phrase,hard
+Everywhere Go First Blur,phrase,hard
+Obtainer Man,phrase,hard
+Dey Play,phrase,hard
+Clock It,phrase,hard
+Sope Purrr,phrase,hard
+Lapo Baby,phrase,hard
+On God,phrase,hard
+No Gree For Anybody,phrase,hard
+Wahala Be Like Bicycle,phrase,hard
+Shege Pro Max,phrase,hard
+Let the Poor Breathe,phrase,hard
+Gbas Gbos,phrase,hard
+Sapa,single word,hard
+Japa,single word,hard
+It is what it is,phrase,hard
+Count your blessings,phrase,hard
+A word is enough for the wise,phrase,hard
+Rema,single word,medium
+Wizkid,single word,medium
+Burna Boy,phrase,medium
+Davido,single word,medium
+Poco Lee,phrase,hard
+Ayra Starr,phrase,hard
+Tems,single word,hard
+Sweeping the floor,phrase,easy
+Mowing the lawn,phrase,easy
+Taking a shower,phrase,easy
+Having a bath,phrase,easy
+Tying your shoelaces,phrase,easy
+Reading a book,phrase,easy
+Reading,single word,easy
+Vacuuming,single word,easy
+Making your bed,phrase,easy
+Flipping pancakes,phrase,medium
+Doing your makeup,phrase,medium
+Putting on mascara,phrase,medium
+Shopping spree,phrase,medium
+Blowing out candles,phrase,easy
+Painting,single word,easy
+graffiti,phrase,medium
+Watching TV,phrase,easy
+Opening a present,phrase,easy
+Doing yoga,phrase,easy
+Ballet dancing,phrase,medium
+Ballet,single word,medium
+Skateboarding,single word,easy
+Riding a skateboard,phrase,easy
+Riding a bike,phrase,easy
+Cycling,single word,easy
+Roller skating,phrase,easy
+Rollerblading,single word,medium
+Skiing,single word,easy
+Running,single word,easy
+jogging,phrase,easy
+Running a marathon,phrase,medium
+Flying in an airplane,phrase,easy
+Flying first class,phrase,hard
+Boarding an airplane,phrase,medium
+Swimming,single word,easy
+Swimming in a pool,phrase,easy
+Doing the Backstroke,phrase,hard
+Taking a picture,phrase,easy
+Taking a selfie,phrase,easy
+Taking a picture with Father Christmas,phrase,medium
+Writing a letter,phrase,easy
+Typing an angry email,phrase,medium
+Milk and cookies,phrase,easy
+Milk,single word,easy
+Cookies and cream,phrase,medium
+Cookies,single word,easy
+Baking cookies,phrase,easy
+Ice cream,phrase,easy
+Ice cream cone,phrase,easy
+Licking an ice-cream cone,phrase,easy
+Bubblegum,single word,easy
+Chewing gum,phrase,easy
+Spaghetti,single word,easy
+Pizza,single word,easy
+Making a pizza,phrase,easy
+Sushi,single word,easy
+Eating sushi,phrase,easy
+Popcorn,single word,easy
+Eating popcorn,phrase,easy
+Guitar,single word,easy
+Playing the guitar,phrase,easy
+Flute,single word,medium
+Playing Flute,phrase,medium
+Trumpet,single word,medium
+Blowing Trumpet,phrase,medium
+Drums,single word,easy
+Playing the Talking Drum,phrase,hard
+Bells,single word,medium
+Golf,single word,easy
+Playing golf,phrase,easy
+Soccer,single word,easy
+Playing soccer,phrase,easy
+Baseball,single word,easy
+Playing baseball,phrase,easy
+Basketball,single word,easy
+Playing basketball,phrase,easy
+Tennis,single word,easy
+Playing tennis,phrase,easy
+Gymnastics,single word,medium
+Doing a cartwheel,phrase,easy
+Sailing,single word,medium
+Going sailing,phrase,medium
+Surprised,single word,easy
+Pretending to be surprised,phrase,medium
+Mickey Mouse,phrase,easy
+Minnie Mouse,phrase,easy
+Mouse,single word,easy
+Singing in the Rain,phrase,medium
+Pounded Yam,phrase,medium
+Pounding Yam in a Mortar,phrase,hard
+Indomie,single word,easy
+Eating indomie,phrase,easy
+Fried Plantain,phrase,easy
+Dodo,single word,medium
+Landlord,single word,medium
+Rent,single word,hard
+Cat,single word,easy
+A cat meowing,phrase,easy
+Dog,single word,easy
+A dog barking,phrase,easy
+Lion,single word,easy
+A lion roaring,phrase,easy
+Elephant,single word,easy
+Monkey,single word,easy
+Snake,single word,easy
+Turtle,single word,easy
+Fish,single word,easy
+A fish swimming,phrase,easy
+Bird,single word,easy
+A bird flying,phrase,easy
+
